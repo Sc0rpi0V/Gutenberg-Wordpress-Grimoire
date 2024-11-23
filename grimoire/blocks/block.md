@@ -33,11 +33,3 @@ Ce document détaille les attributs et les fonctionnalités du bloc **`core/bloc
 ---
 
 *Cette documentation est basée sur les informations disponibles dans le fichier `block.json` du bloc `core/block`.* 
-"""
-
-# Sauvegarde du contenu dans un fichier Markdown
-file_path_pattern = "/mnt/data/core_block_pattern.md"
-with open(file_path_pattern, "w") as file:
-    file.write(pattern_md)
-
-file_path_pattern

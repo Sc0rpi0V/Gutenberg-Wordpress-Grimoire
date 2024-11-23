@@ -65,11 +65,3 @@ Ce document détaille les attributs et les fonctionnalités du bloc **`core/avat
 ---
 
 *Cette documentation est basée sur les informations disponibles dans le fichier `block.json` du bloc `core/avatar`.* 
-"""
-
-# Sauvegarde du contenu dans un fichier Markdown
-file_path_avatar = "/mnt/data/core_avatar_block.md"
-with open(file_path_avatar, "w") as file:
-    file.write(avatar_md)
-
-file_path_avatar

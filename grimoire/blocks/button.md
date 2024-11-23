@@ -86,11 +86,3 @@ Ce document détaille les attributs et les fonctionnalités du bloc **`core/butt
 ---
 
 *Cette documentation est basée sur les informations disponibles dans le fichier `block.json` du bloc `core/button`.*
-"""
-
-# Sauvegarde du contenu dans un fichier Markdown
-file_path_button = "/mnt/data/core_button_block.md"
-with open(file_path_button, "w") as file:
-    file.write(button_md)
-
-file_path_button
