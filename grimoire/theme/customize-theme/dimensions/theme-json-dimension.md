@@ -168,7 +168,7 @@ body {
 ```
 
 `N.B.` Les configurations de margin et de padding de la section « style » : « spacing » sont retranscrites pour le sélecteur body{}.
-![Inspecteur Web](img/inspecteur.jpg)
+![Inspecteur Web](../../img/inspecteur.jpg)
 Mais si ce comportement est utile pour une mise en page emboîtée (ou « contenue ») elle se prête néanmoins peu aux templates basés sur des sections horizontales pleine largeur. On pourra alors privilégier l’utilisation d’un bloc InnerBlock de type « groupe » pour créer les sections parentes de notre choix, et y intégrer des sous-bloc, groupes, colonnes, etc., auxquels nous attribuerons des réglages de taille, marges et autres dimensionnements. Regardons cela tout de suite…
 
 ## Définition des marges par défaut pour les blocs
