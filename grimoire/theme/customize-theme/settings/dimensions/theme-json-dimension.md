@@ -46,7 +46,7 @@ La configuration des dimensions dans le fichier theme.json ne génère pas de r�
 }
 ```
 
-![Controle Dimension Interieurs](../../../img/controle-dimension-blocs-interieurs.jpg)
+![Controle Dimension Interieurs](../../../../img/controle-dimension-blocs-interieurs.jpg)
 
 `.wp-container-my-block-id > * :` Cette règle applique une largeur maximale de 1280px pour tous les éléments dans le conteneur, avec une mise en page centrée grâce à margin-left et margin-right définis sur auto.
 `.wp-container-my-block-id > .alignwide :` Cette règle applique une largeur maximale de 1440px pour les blocs alignés en mode large (wide).
@@ -78,7 +78,7 @@ Ces unités sont définies à l’aide de la propriété « units » de la même
 
 L’interface Gutenberg proposera alors une liste déroulante incluant l’ensemble des unités mises à disposition dans le fichier de configuration du thème.
 
-![Unité Marges bloc](../../../img/unites-de-marges-bloc-theme-fse-wordpress.jpg)
+![Unité Marges bloc](../../../../img/unites-de-marges-bloc-theme-fse-wordpress.jpg)
 
 ## Gestion des marges internes et externes sur un thème Full Site Editing de WordPress
 
@@ -173,7 +173,7 @@ body {
 
 `N.B.` Les configurations de margin et de padding de la section « style » : « spacing » sont retranscrites pour le sélecteur body{}.
 
-![Inspecteur Web](../../img/../inspecteur.jpg)
+![Inspecteur Web](../../../../img/inspecteur.jpg)
 
 Mais si ce comportement est utile pour une mise en page emboîtée (ou « contenue ») elle se prête néanmoins peu aux templates basés sur des sections horizontales pleine largeur. On pourra alors privilégier l’utilisation d’un bloc InnerBlock de type « groupe » pour créer les sections parentes de notre choix, et y intégrer des sous-bloc, groupes, colonnes, etc., auxquels nous attribuerons des réglages de taille, marges et autres dimensionnements. Regardons cela tout de suite…
 
@@ -224,7 +224,7 @@ Par défaut enfin, les valeurs de ces propriétés valent respectivement :
     3.38rem ;
     5.06rem.
 
-![Controle Natif Marges](../../../img/contrrole-natif-marges-bloc.jpg)
+![Controle Natif Marges](../../../../img/contrrole-natif-marges-bloc.jpg)
 
 ## Personnalisation des marges proposées à l’utilisateur d’un thème de bloc WordPress
 
@@ -261,7 +261,7 @@ C’est cette interface que nous utiliserons au sein de l’objet « spacingScal
 }
 ```
 
-![Utilisation echelle marge custom](../../../img/utilisation-echelle-marge-personnalisee-wordpress-fse.jpg)
+![Utilisation echelle marge custom](../../../../img/utilisation-echelle-marge-personnalisee-wordpress-fse.jpg)
 
 `N.B.` une définition d’un nombre d’étapes, supérieur au nombre proposé par défaut par WordPress, génère un contrôle basé sur une liste déroulante et adapte les libellés au standard WordPress (« 2x plus grand », « 3x plus grand », etc.
 
@@ -309,7 +309,7 @@ Les libellés par défaut des étapes d’échelle de marges n’étant pas trè
   ]
 ```
 
-![Liste Déroulante](../../../img/liste-deroulante-marges-personnalisees-wordpress-fse.jpg)
+![Liste Déroulante](../../../../img/liste-deroulante-marges-personnalisees-wordpress-fse.jpg)
 
 Chaque objet de ce tableau correspond à une marge personnalisée et présente ainsi 3 propriétés :
 
@@ -331,11 +331,11 @@ Ces variables serviront entre autres :
 
 1 : À styliser appliquer des marges internes (padding) sur les blocs marqués de la classe « .has-global-padding » ), à l’aide de ces mêmes variables, afin de créer un rembourrage sur blocs pleine-largeur 
 
-![Margin Négatif](../../../img/margin-negatif-block-alignfull-dans-group-has-global-padding-2048x264.jpg)
+![Margin Négatif](../../../../img/margin-negatif-block-alignfull-dans-group-has-global-padding-2048x264.jpg)
 
 2 : À appliquer les padding verticaux sur le conteneur de blocs 
 
-![Définition variables](../../../img/definition-variables-marges-wordpress-sur-element-root-2048x281.jpg)
+![Définition variables](../../../../img/definition-variables-marges-wordpress-sur-element-root-2048x281.jpg)
 
 ```json
 "styles" : {
@@ -371,7 +371,7 @@ Ces variables serviront entre autres :
 
 `N.B.` Les blocs plein largeur dotés de la classe CSS « .has-global-padding » se verront attribuer des marges externes (gauche et droite) vallant -1 X les valeurs de padding précédemment définies :
 
-![Margin Négatif](../../../img/margin-negatif-block-alignfull-dans-group-has-global-padding-2048x264.jpg)
+![Margin Négatif](../../../../img/margin-negatif-block-alignfull-dans-group-has-global-padding-2048x264.jpg)
 
 `N.B.` On remarque aussi qu’afin de conserver une homogénéité des rythmes à l’échelle du site, nous pouvons tout à fait appeler les valeurs de l’échelle de marges précédemment définies
 
@@ -390,7 +390,7 @@ La configuration des « margin » de la section « styles » permet quant à ell
 }
 ```
 
-![Inspecteur Web style body](../../../img/inspecteur-web-styles-body-theme-fse-wordpress.jpg)
+![Inspecteur Web style body](../../../../img/inspecteur-web-styles-body-theme-fse-wordpress.jpg)
 
 ### blockGap, lineHeight et espacement des titres : le rythme de la mise en page
 
@@ -464,9 +464,9 @@ De cette façon, dans votre fichier theme.json, vous pourrez définir une taille
 
 1 : Pour rappel, la class « .is-layout-constrained » est attribuée aux blocs pour lesquels l’option « Inner blocks use content width » (les blocs intérieurs utilisent la largeur du contenu) est activée, et donc limités aux dimensions du contenu prédéfinies par défaut ou dans le fichier theme.json. Ces blocs bénéficieront aussi de la classe « .has-global-padding » garantissant l’intégration de marges internes de « rembourrage ».
 
-![Layout constrained](../../../img/is-layout-constrained-gutenberg.jpg)
+![Layout constrained](../../../../img/is-layout-constrained-gutenberg.jpg)
 
-![Resultat Inspecteur Web](../../../img/blocs-interieurs-largeur-contenu.jpg)
+![Resultat Inspecteur Web](../../../../img/blocs-interieurs-largeur-contenu.jpg)
 
 2 : La class « .is-layout-flow » est quant à elle appliquée aux blocs dont les blocs enfants ne bénéficient pas de la largeur du contenu.
 
