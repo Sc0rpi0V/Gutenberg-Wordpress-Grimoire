@@ -7,7 +7,7 @@
 - [Définition du Design-System](/grimoire/design-system/definition.md)
 - [Parallèle avec WordPress](/grimoire/design-system/parallele-fse.md)
 
-- [Notion d'Atomic Design]
+## Notion d'Atomic Design
 
 - [Atomes](/grimoire/design-system/atomic-design/atomes.md)
 - [Molécules](/grimoire/design-system/atomic-design/molecules.md)
