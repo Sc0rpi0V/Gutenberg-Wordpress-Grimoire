@@ -6,7 +6,7 @@
 
 ### Gestion des images
 
-- [Gestion des images](./manage-images.md)
+- [Gestion des images](../manage-images.md)
 
 ## Pour les développeurs
 
