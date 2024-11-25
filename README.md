@@ -6,7 +6,7 @@
 
 ### Gestion des images
 
-- [Gestion des images](../Gutenberg-Wordpress-Grimoire-main/grimoire/manage-images.md)
+- [Gestion des images](/grimoire/manage-images.md)
 
 ## Pour les développeurs
 
