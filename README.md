@@ -19,8 +19,10 @@
 
 - [Variables Globales](/grimoire/design-system/design-figma/variable-global.md)
 - [Composants et Variations](/grimoire/design-system/design-figma/composants-variations.md)
+- [Gestion de l'auto layout](/grimoire/design-system/design-figma/auto-layout.md)
+- [Gestion de l'alignement horizontal](/grimoire/design-system/design-figma/align-horizontal.md)
 
-## Gestiion FSE
+## Gestion FSE
 
 - [Gérer la navigation](/grimoire/fse/navigation.md)
 - [Comprendre l'éditeur de Bloc](/grimoire/fse/editeur-bloc-wordpress.md)
