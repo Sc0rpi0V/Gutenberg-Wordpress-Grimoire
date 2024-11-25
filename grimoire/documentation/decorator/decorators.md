@@ -18,7 +18,7 @@ Un décorateur est une classe qui suit un contrat spécifique défini par une in
 ```php
 <?php
 
-namespace PQP\Decorators;
+namespace Decorators;
 
 interface StyleDecorator
 {
@@ -31,7 +31,7 @@ interface StyleDecorator
 ```php
 <?php
 
-namespace PQP\Decorators;
+namespace Decorators;
 
 class IsStyleCardDecorator implements StyleDecorator
 {
@@ -53,9 +53,9 @@ class IsStyleCardDecorator implements StyleDecorator
 ```php
 <?php
 
-use PQP\Components\TokenComponent;
-use PQP\Decorators\IsStyleCardDecorator;
-use PQP\Decorators\CustomBackgroundDecorator;
+use Components\TokenComponent;
+use Decorators\IsStyleCardDecorator;
+use Decorators\CustomBackgroundDecorator;
 
 // Création du composant
 $component = new TokenComponent();

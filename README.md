@@ -2,6 +2,14 @@
 
 # Table des matières
 
+
+## Gestiion FSE
+
+- [Gérer la navigation](/grimoire/fse/navigation.md)
+- [Comprendre l'éditeur de Bloc](/grimoire/fse/editeur-bloc-wordpress.md)
+- [Définir les styles](/grimoire/fse/definition-styles.md)
+- [Customizer les blocs](/grimoire/fse/customize-blocs.md)
+
 ## Pour les contributeurs WordPress
 
 ### Gestion des images
@@ -28,6 +36,14 @@
 #### Theme.json
 
 - [Comment utiliser le fichier theme.json ?](./theme-json.md)
+- [CustomTemplates](/grimoire/theme/customize-theme/customTemplates/)
+- [Settings Color](/grimoire/theme/customize-theme/settings/color/color.md)
+- [Settings Dimensions](/grimoire/theme/customize-theme/settings/dimensions/theme-json-dimension.md)
+- [Settings Layout](/grimoire/theme/customize-theme/settings/layout/layout.md)
+- [Settings Spacing](/grimoire/theme/customize-theme/settings/spacing/spacing.md)
+- [Settings Typography](/grimoire/theme/customize-theme/settings/typography/typography.md)
+- [Styles Blokcks](/grimoire/theme/customize-theme/styles/blocks/)
+
 
 #### Type de contenu personnalisé
 

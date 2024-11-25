@@ -87,7 +87,7 @@ class ThemeTypographyDecorator implements StyleDecorator
         return 'font-theme-body text-theme-color';
     }
 }
-````
+```
 
 ### 3. Réflexion des Paramètres de Gutenberg (Gutenberg Decorator)
 

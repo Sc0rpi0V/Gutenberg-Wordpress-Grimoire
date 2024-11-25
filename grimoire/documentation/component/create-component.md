@@ -46,9 +46,9 @@
 use PQP\Components\YourComponent;
 // Importez les décorateurs nécessaires
 
-add_action('render_block_core/block_name', 'pqp_block_name_render', 10, 3);
+add_action('render_block_core/block_name', 'block_name_render', 10, 3);
 
-function pqp_your_component_render(string $blockContent, array $block): string
+function your_component_render(string $blockContent, array $block): string
 {
 	$component = new YourComponent();
 
@@ -73,9 +73,9 @@ function pqp_your_component_render(string $blockContent, array $block): string
 ```php
 <?php
 
-namespace PQP\BlockDataMapper;
+namespace BlockDataMapper;
 
-use PQP\Components\Component;
+use Components\Component;
 
 class YourComponent extends Component
 {
