@@ -38,6 +38,8 @@ L’interface de Gutenberg affiche une liste des blocs disponibles, classés par
 - Bloc **Paragraphe** pour ajouter du texte.
 - Bloc **Titre** pour structurer un contenu.
 
+- [Insertion bloc Gutenberg](/grimoire/img/inserer-blocs-gutenberg.jpg.avif)
+
 ---
 
 ## Construire avec les Blocs

@@ -48,6 +48,8 @@ Le **template hierarchy** de WordPress définit la priorité de chargement des m
   - L’image mise en avant.
   - Le contenu de l’article.
 
+- [Template Hierarchy](/grimoire/img/wp-template-hierarchy.jpg.avif)
+
 ---
 
 ## Exemple d’Édition : Le Modèle « Single »
@@ -75,6 +77,8 @@ Il est possible, et même recommandé, d’insérer des **compositions** dans vo
 #### Illustration
 
 Insérer une composition dans un modèle de page comme le **single** est extrêmement rapide et permet de gagner du temps tout en garantissant un design cohérent.
+
+- [Edit single Page](/grimoire/img/modele-publication-single-fse.jpg.avif)
 
 ---
 

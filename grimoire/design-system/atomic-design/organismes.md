@@ -59,6 +59,8 @@ Les compositions offrent une expérience utilisateur plus fluide et agréable :
 
 Insérer une composition dans Gutenberg est rapide et intuitif. En seulement **trois clics**, une composition complète peut être ajoutée à une page.
 
+- [Composition sur mesure](/grimoire/img/composition-sur-mesure-structure-fse-scaled.jpg.avif)
+
 ---
 
 ## À Retenir

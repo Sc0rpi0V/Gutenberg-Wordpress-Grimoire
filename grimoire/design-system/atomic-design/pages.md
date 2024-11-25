@@ -43,6 +43,8 @@ Vous pouvez également enregistrer des modèles de pages complètes sous forme d
 
 Le thème **Ollie** propose un exemple de cette fonctionnalité avec des « **compositions de compositions** ». Ces modèles combinent plusieurs éléments réutilisables, vous permettant de créer des pages complexes sans repartir de zéro à chaque fois.
 
+- [Interface Gestion Page](/grimoire/img/interface-gestion-pages-fse-scaled.jpg.avif)
+
 ---
 
 ## Modèle de Page vs Page (ou Article)

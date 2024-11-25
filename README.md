@@ -15,6 +15,11 @@
 - [Templates](/grimoire/design-system/atomic-design/templates.md)
 - [Pages](/grimoire/design-system/atomic-design/pages.md)
 
+## Design Figma
+
+- [Variables Globales](/grimoire/design-system/design-figma/variable-global.md)
+- [Composants et Variations](/grimoire/design-system/design-figma/composants-variations.md)
+
 ## Gestiion FSE
 
 - [Gérer la navigation](/grimoire/fse/navigation.md)

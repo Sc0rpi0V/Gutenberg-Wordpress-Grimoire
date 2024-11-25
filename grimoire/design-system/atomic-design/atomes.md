@@ -10,6 +10,8 @@ Cette première partie peut sembler un peu complexe à appréhender. À premièr
 
 Prenons un exemple concret : le **bloc image** dans l'éditeur de contenu de WordPress. 
 
+- [Bloc Image](/grimoire/img/atomes-blocs-gutenberg-2048x1330.jpg.avif)
+
 ### Description du Bloc Image
 
 Ce bloc permet d’ajouter une image, mais il est composé de plusieurs sous-éléments. En l’occurrence :
@@ -42,6 +44,8 @@ Dans le **Full Site Editing (FSE)** de WordPress, il est possible de styliser ce
 
 Dans l’éditeur de styles globaux, il existe une section spécifique dédiée aux éléments primitifs, permettant cette personnalisation.
 
+- [Styles globaux Editeur](/grimoire/img/reglage-legendes-fse.jpg.avif)
+
 ---
 
 ## Les Boutons : Un Autre Exemple d’Élément Primitif
@@ -57,6 +61,8 @@ Bien qu’ils soient souvent associés au **bloc « Boutons »**, les boutons ap
 #### Illustration
 
 Les boutons ne sont pas exclusifs à un seul bloc. On peut les retrouver dans plusieurs endroits de l’éditeur, renforçant leur statut d’élément réutilisable.
+
+-[Boutons présents dans différents blocs](/grimoire/img/boutons-atomes-dans-blocs-gutenberg.jpg.avif)
 
 ### Personnalisation des Boutons dans le FSE
 
