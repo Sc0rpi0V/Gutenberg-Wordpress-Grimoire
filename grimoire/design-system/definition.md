@@ -11,8 +11,7 @@ C’est une boîte à outils permettant de standardiser visuellement notre produ
 Le design system est un langage complet souvent utilisé pour les grosses applications et grandes marques.  
 Par exemple, **Material Design** par Google est un design system permettant de donner des directives claires aux développeurs d’applications mobiles Android.
 
-![Material Design de Google](https://via.placeholder.com/600x300)  
-*Le Material Design de Google*
+![Material Design de Google](/grimoire/img/material-design-android-2048x1150.jpg.avif)
 
 ## Utilité dans une agence web
 
@@ -23,8 +22,7 @@ Toutefois, il est très intéressant de mettre en place, en plus d’une simple 
 
 Des logiciels comme **Figma** facilitent grandement cette démarche. La communauté Figma propose d’ailleurs de nombreux design systems gratuits.
 
-![Design System sur Figma](https://via.placeholder.com/600x300)  
-*Un design system disponible gratuitement sur Figma Community*
+![Design System sur Figma](/grimoire/img/figma-design-system-2048x1218.jpg.avif) 
 
 ## Documentation dans un Design System
 
