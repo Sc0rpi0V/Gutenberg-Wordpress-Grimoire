@@ -43,8 +43,7 @@ Un bouton peut paraître simple, mais il peut inclure :
 - Une version light ou une déclinaison dark.
 
 #### Illustration des déclinaisons des boutons
-![Déclinaisons des boutons](https://via.placeholder.com/600x300)  
-*Toutes les déclinaisons des boutons*
+![Déclinaisons des boutons](/grimoire/img/boutons-design-system.jpg.avif)
 
 ### Exemple : Les Cartes
 
@@ -55,8 +54,7 @@ De même pour les cartes, elles peuvent avoir différentes présentations :
 - Foncées ou claires.
 
 #### Illustration des déclinaisons des cartes
-![Variations graphiques des cartes](https://via.placeholder.com/600x300)  
-*Différents modèles de la même carte*
+![Variations graphiques des cartes](/grimoire/img/cartes-design-system.jpg.avif)
 
 ## Conseils
 
