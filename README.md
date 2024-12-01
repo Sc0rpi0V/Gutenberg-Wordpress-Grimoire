@@ -108,7 +108,8 @@
 - [Config Espacements](/grimoire/fse/theme-json/config-espacements.md)
 - [Settings Layout](/grimoire/theme/customize-theme/settings/layout/layout.md)
 - [Settings Spacing](/grimoire/theme/customize-theme/settings/spacing/spacing.md)
-- [Conig Largeur Site](/grimoire/fse/theme-json/largeur-site-useRootPaddingAwareAlignments.md)
+- [Config Largeur Site](/grimoire/fse/theme-json/largeur-site-useRootPaddingAwareAlignments.md)
+- [Params Settings](/grimoire/theme/customize-theme/settings/params-settings.md)
 
 ##### Gestion Typographie
 
@@ -126,6 +127,13 @@
 - [Utilisation Global Value CSS JSON](/grimoire/fse/theme-json/use-global-value-css-json.md)
 
 - [CustomTemplates](/grimoire/theme/customize-theme/customTemplates/)
+
+##### Gestion Params Settings Theme.json
+
+- [Color Settings](/grimoire/theme/customize-theme/settings/color/)
+- [Elements Settings](/grimoire/theme/customize-theme/settings/elements)
+- [Spacing Settings](/grimoire/theme/customize-theme/settings/spacing)
+- [Typography Settings](/grimoire/theme/customize-theme/settings/typography)
 
 #### Type de contenu personnalisé
 
