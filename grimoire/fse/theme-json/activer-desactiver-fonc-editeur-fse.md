@@ -4,6 +4,8 @@
 
 On va commencer par regarder du côté des fonctionnalités globales de l’éditeur dans la rubrique **settings** de notre fichier `theme.json`. Les réglages que l’on va activer s’appliqueront ainsi à la majorité des blocs.
 
+![Theme Json]()
+
 ### Activer tous les réglages d’un coup
 
 Cette propriété nous permet d’activer les réglages suivants :
