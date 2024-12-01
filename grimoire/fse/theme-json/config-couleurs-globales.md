@@ -2,6 +2,8 @@
 
 Nous allons maintenant commencer à intégrer la charte graphique dans notre site WordPress. Pour cela, nous allons définir nos couleurs à l’aide du fichier `theme.json` dans la section **settings > color**. Voici un aperçu des propriétés disponibles :
 
+![Props Couleurs Theme.json](/grimoire/img/props-theme-json-color.png)
+
 ## La palette de couleurs
 
 Commençons par la palette, qui est la plus importante. Il existe 3 types de couleurs que nous pouvons définir :
@@ -9,7 +11,11 @@ Commençons par la palette, qui est la plus importante. Il existe 3 types de cou
 2. **Les dégradés**, si besoin ;
 3. **Les duotones**, qui permettent d’appliquer un filtre bicolore sur les images.
 
+![Déclaration Theme.json](/grimoire/img/palette-couleur-theme-json.png)
+
 ### Déclaration des couleurs dans le JSON
+
+![Déclaration des couleurs dans le JSON](/grimoire/img/couleur-theme-json.png)
 
 Voici comment déclarer chaque couleur de notre palette dans le fichier JSON. Vous devez indiquer 3 informations pour chaque couleur :
 - **name** : Le nom qui sera affiché dans l’interface ;
@@ -21,6 +27,8 @@ Vous pouvez également déclarer une couche d’opacité hexadécimale en ajouta
 ### Exemple de palette de couleurs
 
 Voici à quoi ressemblera votre palette de couleurs. Vous pourrez voir vos couleurs dans la rubrique « Thème » de l’interface WordPress.
+
+![Palette couleur](/grimoire/img/palette-couleurs-charte.jpg.avif)
 
 Il est essentiel de définir une charte de nommage et de s’y tenir. Par exemple :
 - Le thème **2024** de WordPress utilise : `base / base-2 / contrast / accent` ;
@@ -37,6 +45,8 @@ Comme pour les couleurs, vous pouvez également déclarer des dégradés dans vo
 ### Déclaration des dégradés dans le JSON
 
 Pour chaque dégradé, vous devrez définir un **nom** et un **slug** qui sera l’identifiant unique du dégradé. Ensuite, dans la propriété **gradient**, vous indiquerez le CSS du dégradé souhaité. Vous pouvez utiliser un générateur de dégradés CSS pour vous simplifier la tâche, car la syntaxe n’est pas toujours évidente.
+
+![Palette de dégradé](/grimoire/img/palette-degrades-gutenberg.jpg.avif)
 
 Vous pourrez appliquer des dégradés linéaires, circulaires ou coniques, compatibles avec la syntaxe CSS.
 
