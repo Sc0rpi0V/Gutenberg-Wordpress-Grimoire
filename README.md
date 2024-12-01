@@ -126,14 +126,9 @@
 - [Config Custom Values](/grimoire/fse/theme-json/config-custom-value.md)
 - [Utilisation Global Value CSS JSON](/grimoire/fse/theme-json/use-global-value-css-json.md)
 
-- [CustomTemplates](/grimoire/theme/customize-theme/customTemplates/)
+##### CustomTemplates
 
-##### Gestion Params Settings Theme.json
-
-- [Color Settings](/grimoire/theme/customize-theme/settings/color/)
-- [Elements Settings](/grimoire/theme/customize-theme/settings/elements)
-- [Spacing Settings](/grimoire/theme/customize-theme/settings/spacing)
-- [Typography Settings](/grimoire/theme/customize-theme/settings/typography)
+- [CustomTemplates](/grimoire/theme/customize-theme/customTemplates/customTemplates.md)
 
 #### Type de contenu personnalisé
 
